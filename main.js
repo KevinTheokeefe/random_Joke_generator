@@ -3,7 +3,8 @@ const setUps = [
     'Why did the Monkey cross the road?',
     'Why did the Cat cross the road?',
     'Why did the Dog cross the road?',
-    "Why did the Ferrett cross the road?"
+    "Why did the Ferrett cross the road?",
+    "Why did the Cow cross the road?"
     // Add as many jokes as you like
   ];
   
