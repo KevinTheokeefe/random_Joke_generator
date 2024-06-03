@@ -11,8 +11,8 @@ const setUps = [
   const punchLines = [
     'To get to the other side!',
     "To prove he wasn't chicken!",
-    'It was chasing the chicken.',
-    "To stretch her legs."
+    'It was chasing the chicken!',
+    "To stretch her legs!"
     // Add as many jokes as you like
   ];
   
